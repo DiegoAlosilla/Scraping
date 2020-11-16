@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\bin\Debug\ScrapingAhCuanto.exe.config
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\bin\Debug\ScrapingAhCuanto.exe
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\bin\Debug\ScrapingAhCuanto.pdb
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\bin\Debug\HtmlAgilityPack.dll
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\obj\Debug\ScrapingAhCuanto.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\obj\Debug\ScrapingAhCuanto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\obj\Debug\ScrapingAhCuanto.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\obj\Debug\ScrapingAhCuanto.exe
+C:\Users\USUARIO\source\repos\ScrapingAhCuanto\ScrapingAhCuanto\obj\Debug\ScrapingAhCuanto.pdb
